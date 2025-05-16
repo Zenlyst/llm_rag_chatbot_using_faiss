@@ -2,7 +2,7 @@ import faiss
 import numpy as np
 import json
 from time import time
-import asyncio
+import asyncio 
 from datasets import Dataset
 from typing import List
 from dotenv import load_dotenv
