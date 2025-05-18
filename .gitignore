@@ -1,0 +1,24 @@
+# File types to ignore
+*.env
+*.db
+*.bin
+*.pkl
+*.csv
+*.rdb
+*.pub
+*.log
+*.docx
+*.pdf
+*.pyc
+
+# Directories to ignore
+__pycache__/
+.git/
+chroma_db_ans_embedding/
+chroma_db_carbon_questions/
+Documents/
+Output/
+
+# Files to ignore
+Modelfile
+id_rsa
