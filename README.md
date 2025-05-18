@@ -2,7 +2,7 @@
 
 The faiss_index.py script creates a document retrieval system that compares FAISS indexing with OpenAI embeddings in a RAG framework. It uses Supabase for data storage, applies RAGAS metrics to measure which method works better. The project uses the Taide LLM model, which is designed for Taiwanese content and provides responses in Traditional Chinese. 
 
----
+--- 
 
 ## Features
 
